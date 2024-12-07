@@ -78,13 +78,13 @@ function Hero() {
         </div>
 
         {/* Right Image */}
-        <div className="w-full lg:w-[476px] max-h-[300px] lg:max-h-[500px]">
+        <div className="w-full lg:w-[800px] max-h-[700px] lg:max-h-[700px]">
           <Image
             className="object-contain"
             src="/images/iphone.png"
             alt="iPhone"
-            width={500}
-            height={500}
+            width={800}
+            height={700}
             priority
           />
         </div>
